@@ -19,7 +19,7 @@ To run the Atlas website locally, follow these steps:
 Once the website is running, you can navigate through the different sections and explore various locations. The website provides responsive design where you can surf it on any device you like.
 
 ## Perview 
-You can see the resposive site live at: https://aladdin-elshamy.github.io/Atlas/
+You can see the responsive site live at: https://aladdin-elshamy.github.io/Atlas/
 
 ## Contact
 If you have any questions, suggestions, or feedback regarding the Atlas website, please feel free to reach out to us at aladdinelshamy@gmail.com.
