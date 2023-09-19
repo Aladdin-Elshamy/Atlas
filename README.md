@@ -16,7 +16,7 @@ To run the Atlas website locally, follow these steps:
 3. Open the index.html file in your preferred web browser.
 
 ## Usage
-Once the website is running, you can navigate through the different sections and explore various locations. The website provides information about each location, including a description, photos, and additional details.
+Once the website is running, you can navigate through the different sections and explore various locations. The website provides responsive design where you can surf it on any device you like.
 
 ## Perview 
 You can see the resposive site live at: https://aladdin-elshamy.github.io/Atlas/
